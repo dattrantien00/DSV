@@ -10,5 +10,5 @@
  
  
 # Contract special
- ** Events **
+ ***Events***
  * Attend to take reward
